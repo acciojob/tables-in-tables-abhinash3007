@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.black-cell {
+            background-color: black;
+            color: white;
+            font-weight: bold;
+        }
